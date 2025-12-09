@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Akanksha-portfolio/static/css/main.22913b46.css",
-    "main.js": "/Akanksha-portfolio/static/js/main.d56b3a5d.js",
-    "static/js/453.6c9a3c53.chunk.js": "/Akanksha-portfolio/static/js/453.6c9a3c53.chunk.js",
-    "index.html": "/Akanksha-portfolio/index.html",
-    "main.22913b46.css.map": "/Akanksha-portfolio/static/css/main.22913b46.css.map",
-    "main.d56b3a5d.js.map": "/Akanksha-portfolio/static/js/main.d56b3a5d.js.map",
-    "453.6c9a3c53.chunk.js.map": "/Akanksha-portfolio/static/js/453.6c9a3c53.chunk.js.map"
+    "main.css": "/Akanksha-PortFolio/static/css/main.22913b46.css",
+    "main.js": "/Akanksha-PortFolio/static/js/main.8b89f8d7.js",
+    "static/js/453.6c9a3c53.chunk.js": "/Akanksha-PortFolio/static/js/453.6c9a3c53.chunk.js",
+    "index.html": "/Akanksha-PortFolio/index.html",
+    "main.22913b46.css.map": "/Akanksha-PortFolio/static/css/main.22913b46.css.map",
+    "main.8b89f8d7.js.map": "/Akanksha-PortFolio/static/js/main.8b89f8d7.js.map",
+    "453.6c9a3c53.chunk.js.map": "/Akanksha-PortFolio/static/js/453.6c9a3c53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22913b46.css",
-    "static/js/main.d56b3a5d.js"
+    "static/js/main.8b89f8d7.js"
   ]
 }
